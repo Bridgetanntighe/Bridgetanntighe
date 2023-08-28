@@ -21,7 +21,7 @@
 <h2>Certifictions </h2>
 
 - [Google Cybersecurity](https://coursera.org/share/a83ead28610357fc058278dda8ebb888)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [NIST Risk Management Framework for Systems and Organisations Introductory Course Version 2.0](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/rmf-training/intro-course-v2_0/index.html)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
