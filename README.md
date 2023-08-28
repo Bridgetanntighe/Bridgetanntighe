@@ -23,8 +23,8 @@
 - [Google Cybersecurity](https://coursera.org/share/a83ead28610357fc058278dda8ebb888)
 - [NIST Risk Management Framework for Systems and Organisations Introductory Course Version 2.0](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/rmf-training/intro-course-v2_0/index.html)
 - [Wireshark for Beginners](https://coursera.org/share/acb59a3461fb400526ef1e8e24b88405)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Microsoft Windows Defender and Firewall for Beginners](https://coursera.org/share/d24dee38cba85063d85e71c73e3fe666)
+- [Analyze Network Traffic with TCPDump](https://coursera.org/share/561a32425a4fd6e5e82e8836a1d32cfd)
 
 <h2> 🤳 Connect with me:</h2>
 
