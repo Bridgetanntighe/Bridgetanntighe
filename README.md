@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - <b>Linux</b>
+ - <b>Linux and SQL</b>
    - [Managing Authorization with Linux](https://github.com/Bridgetanntighe/ActiveDirectoryLab)
    - [Add and manage users with Linux commands](https://github.com/Bridgetanntighe/ManageUsers/blob/main/README.md)
+   - [Preforming a SQL query](https://github.com/Bridgetanntighe/ManageUsers/blob/main/README.md)
 - <b>Splunk</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
