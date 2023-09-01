@@ -15,7 +15,7 @@
 - <b>Capture and view network traffic</b>
   - [Analyse a packet with Wireshark](https://github.com/Bridgetanntighe/Filter-SQL-II/blob/main/README.md)
   - [Capture a Packet](https://github.com/Bridgetanntighe/Capture_packet/blob/main/README.md)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Exploring signatures and logs with Suricata](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
