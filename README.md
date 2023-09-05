@@ -7,18 +7,13 @@
    - [Add and manage users with Linux commands](https://github.com/Bridgetanntighe/ManageUsers/blob/main/README.md)
    - [Filter a SQL query I](https://github.com/Bridgetanntighe/FilterSQLTheory/blob/main/README.md)
    - [Filter a SQL query II](https://github.com/Bridgetanntighe/Filter-SQL-II)
-- <b>Splunk</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 - <b>Capture and view network traffic</b>
   - [Analyse a packet with Wireshark](https://github.com/Bridgetanntighe/Filter-SQL-II/blob/main/README.md)
   - [Capture a Packet](https://github.com/Bridgetanntighe/Capture_packet/blob/main/README.md)
   - [Exploring signatures and logs with Suricata](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>Splunk</b>
+  - N/A
 <h2>Certifictions </h2>
 
 - [Google Cybersecurity](https://coursera.org/share/a83ead28610357fc058278dda8ebb888)
@@ -27,12 +22,8 @@
 - [Microsoft Windows Defender and Firewall for Beginners](https://coursera.org/share/d24dee38cba85063d85e71c73e3fe666)
 - [Analyze Network Traffic with TCPDump](https://coursera.org/share/561a32425a4fd6e5e82e8836a1d32cfd)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bridgetann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
