@@ -13,7 +13,7 @@
   - [Capture a Packet](https://github.com/Bridgetanntighe/Capture_packet/blob/main/README.md)
   - [Exploring signatures and logs with Suricata](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Splunk</b>
-  - N/A
+  - Project coming soon
 <h2>Certifictions </h2>
 
 - [Google Cybersecurity](https://coursera.org/share/a83ead28610357fc058278dda8ebb888)
