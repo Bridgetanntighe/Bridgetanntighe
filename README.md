@@ -12,6 +12,10 @@
   - [Analyse a packet with Wireshark](https://github.com/Bridgetanntighe/Filter-SQL-II/blob/main/README.md)
   - [Capture a Packet](https://github.com/Bridgetanntighe/Capture_packet/blob/main/README.md)
   - [Exploring signatures and logs with Suricata](https://github.com/Bridgetanntighe/Suricata/edit/main/README.md)
+
+- <b>Installing, Updating and Removing Software</b>
+  - In Windows
+  - In Linux
 - <b>Splunk</b>
   - Project coming soon
 <h2>Certifictions </h2>
