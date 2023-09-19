@@ -7,15 +7,13 @@
    - [Add and manage users with Linux commands](https://github.com/Bridgetanntighe/ManageUsers/blob/main/README.md)
    - [Filter a SQL query I](https://github.com/Bridgetanntighe/FilterSQLTheory/blob/main/README.md)
    - [Filter a SQL query II](https://github.com/Bridgetanntighe/Filter-SQL-II)
+   - [Installing, Updating and Removing Software in Linux](https://github.com/Bridgetanntighe/Install-updates-windows/blob/main/README.md)
 
 - <b>Capture and view network traffic</b>
   - [Analyse a packet with Wireshark](https://github.com/Bridgetanntighe/Filter-SQL-II/blob/main/README.md)
   - [Capture a Packet](https://github.com/Bridgetanntighe/Capture_packet/blob/main/README.md)
   - [Exploring signatures and logs with Suricata](https://github.com/Bridgetanntighe/Suricata/edit/main/README.md)
 
-- <b>Installing, Updating and Removing Software</b>
-  - In Windows
-  - In Linux
 - <b>Splunk</b>
   - Project coming soon
 <h2>Certifictions </h2>
