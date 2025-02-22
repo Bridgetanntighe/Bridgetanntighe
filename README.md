@@ -14,7 +14,7 @@
   - [Capture a Packet](https://github.com/Bridgetanntighe/Capture_packet/blob/main/README.md)
   - [Exploring signatures and logs with Suricata](https://github.com/Bridgetanntighe/Suricata/edit/main/README.md)
 
-- <b>  🚀 Security & DevSecOps Projects </b>
+<b>  🚀 Security & DevSecOps Projects </b>
   - Currently building security-focused automation projects, including AWS security enforcement, CI/CD pipeline security, and IAM role automation. These projects will be made public soon to showcase hands-on experience with cloud security and DevSecOps best practices.
 <h2>Certifictions </h2>
 
