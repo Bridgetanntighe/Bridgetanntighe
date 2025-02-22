@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bridget! <a href="https://www.linkedin.com/in/bridget-a-592105241/">IT professional </a> 
+<h1>Hi, I'm Bridget! <a href="https://www.linkedin.com/in/bridget-a-592105241/">IT professional | CyberSecurity | DevSecOps </a> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
